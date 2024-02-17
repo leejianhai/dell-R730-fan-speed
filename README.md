@@ -1,2 +1,2 @@
-1.sensors命令
+1.sensors
 2.ipmtool
